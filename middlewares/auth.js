@@ -1,0 +1,17 @@
+// capa intermedia que activa el acceso a las rutas con el token valido
+const { expressjwt: jwt } = require("express-jwt");
+
+function authJwt(
+  app,
+  secretKey = "seCreTo",
+  excludedPaths = ["/api/usuarios/login", "/api/usuarios/registro", "/api/producto/listartodos"],
+) {
+  app.use(
+    "/api",
+    jwt({ secret: secretKey, algorithms: ["HS256"] }).unless({
+      path: excludedPaths,
+    })
+  );
+}
+
+module.exports = authJwt;
