@@ -64,8 +64,8 @@ Este proyecto es una **API REST** construida con **Node.js** (ES6) y **MongoDB**
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/tu-proyecto-backend.git
-   cd tu-proyecto-backend
+   git clone https://github.com/NicolasMoralesC10/eTienda-ecmaScript-6.git
+   cd eTienda-ecmaScript-6
 
 ## Notas-del-proyecto
 
