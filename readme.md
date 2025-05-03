@@ -19,7 +19,7 @@
 
 ## Instructor
 
-- **GitHub**: <a href="https://github.com/WalterArias" target="_blank">Walter Arias</a>
+- **GitHub**: <a href="https://github.com/WalterArias" target="_blank" rel="noopener noreferrer">Walter Arias</a>
 
 ---
 
