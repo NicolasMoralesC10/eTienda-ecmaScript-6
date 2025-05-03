@@ -15,19 +15,27 @@
 7. [Notas del proyecto](#notas-del-proyecto)  
 8. [Documentación](#documentación-de-mongodb)
 
----
+
 
 ## Instructor
 
-- **GitHub**: <a href="https://github.com/WalterArias" target="_blank" rel="noopener noreferrer">Walter Arias</a>
+- <strong>Instructor</strong>: Walter Arias
+  <a href="https://github.com/WalterArias" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+      align="center"
+      height="30"
+      style="margin-left:3.5em;"
+    />
+  </a>
 
----
 
 ## Descripción
 
 Este proyecto es una **API REST** construida con **Node.js** (ES6) y **MongoDB**, siguiendo arquitectura orientada a servicios y patrón MVC (sin vistas, sólo rutas). Permite gestionar recursos mediante peticiones HTTP.
 
----
+
 
 ## Tecnologías
 
@@ -40,7 +48,7 @@ Este proyecto es una **API REST** construida con **Node.js** (ES6) y **MongoDB**
 - **multer** para gestión de archivos (subidas)  
 - **cors** para manejo de CORS  
 
----
+
 
 ## Arquitectura
 
@@ -50,7 +58,7 @@ Este proyecto es una **API REST** construida con **Node.js** (ES6) y **MongoDB**
   - `models/`      → Definición de esquemas Mongoose  
   - `routes/`      → Definición de rutas y middlewares  
 
----
+
 
 ## Requisitos
 
@@ -58,7 +66,7 @@ Este proyecto es una **API REST** construida con **Node.js** (ES6) y **MongoDB**
 - **npm** o **yarn**  
 - **MongoDB** (local o Atlas)
 
----
+
 
 ## Instalación
 
@@ -67,7 +75,7 @@ Este proyecto es una **API REST** construida con **Node.js** (ES6) y **MongoDB**
    git clone https://github.com/NicolasMoralesC10/eTienda-ecmaScript-6.git
    cd eTienda-ecmaScript-6
 
----
+
 
 ## Notas-del-proyecto
 
@@ -75,7 +83,7 @@ Este proyecto es una **API REST** construida con **Node.js** (ES6) y **MongoDB**
   ```powershell
   Set-ExecutionPolicy Unrestricted
   
----
+
 
 ## Documentación de MongoDB
 
