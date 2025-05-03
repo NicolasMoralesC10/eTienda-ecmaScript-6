@@ -1,5 +1,6 @@
-# NOTAS DEL PROYECTO
+# PROYECTO FORMATIVO
 
+## Notas del proyecto
 - Tener en cuenta si no corre el node js habilitar ejecucion de scripts en win 11
 - ejecutamos en la consola en modo administrador : Set-ExecutionPolicy Unrestricted
 - Otra opcion es : Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
@@ -14,12 +15,12 @@
 jwt
 https://www.npmjs.com/package/jsonwebtoken
 
-## DOCUMENTACION DE MONGO
+## Documentacion de mongo
 
 - mongodb : https://www.mongodb.com/docs/manual/reference/method/
 - mongoose(libreria que interactua entre node js y mongodb):https://mongoosejs.com/docs/guide.html#methods
 
-# notas para desarrolladores linux
+## notas para desarrolladores linux
 
 -iniciar el service de mongo en linux:
 sudo systemctl start mongod
