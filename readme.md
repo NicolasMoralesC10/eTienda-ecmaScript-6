@@ -67,6 +67,8 @@ Este proyecto es una **API REST** construida con **Node.js** (ES6) y **MongoDB**
    git clone https://github.com/NicolasMoralesC10/eTienda-ecmaScript-6.git
    cd eTienda-ecmaScript-6
 
+---
+
 ## Notas-del-proyecto
 
 - Si Node.js no corre en Windows 11, habilita la ejecución de scripts:
